@@ -21,17 +21,19 @@ Python Requirements:
 
 FEATURES:
 
-1. PERSISTENCY - RUN AT STARTUP AUTOMATICALLY, PERSISTENTLY RUNNING ONCE USER STARTS THE SYSTEM.
 
-2. SAVES KEYSTROKES WITHOUT THE NEED TO CREATE AND SAVE A TEXT FILE LOCALLY
+1. persistency - runs at startup automatically once the user starts the system.
 
-3. SENDS TO WEB SERVER  
+2. saves keystrokes without the need to create and save a text file locally.
 
-4. FUD - UNDETECTABLE 
+3. sends to web server. 
 
-5. CAN ONLY EXECUTE THE PROGRAM ONE AT A TIME - DOES NOT ALLOW MULTIPLY INSTANCES TO BE RUNNING
+4. undetectable with most of the antivirus. 
+
+5. can only execute the program one at a time - does not allow multiple instances to be running.
 
 
 
-INCLUDE THE PHP SCRIPT IN THE SERVER SIDE.
+
+
 
