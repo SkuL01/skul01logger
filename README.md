@@ -1,39 +1,25 @@
-# Codezstruct_keylogger
+skul01logger
 
-***This is an open source keylogger created using python 2.7 and php on server side. the codes was created and modified by codezstruct, credits also to ajin abraham. 
-
-
-‘’’You are free to reuse and modify the source code but only for educational purpose and research.’’’
-
-
-
-
-
+***This is an open source keylogger created using python 2.7 and php. 
+‘’’You are free to reuse and modify the source code only for educational purpose and research.’’’
 
 Python Requirements:
 
-1. Pyhook module 
-2. Pythoncom module
-3. py2exe
-
-
-
+    Pyhook module
+    Pythoncom module
+    py2exe
 
 FEATURES:
 
+    persistency - runs at startup automatically once the user starts the system.
 
-1. persistency - runs at startup automatically once the user starts the system.
+    saves keystrokes without the need to create and save a text file locally.
 
-2. saves keystrokes without the need to create and save a text file locally.
+    sends key strokes to your ftp server.
 
-3. sends to web server. 
+    undetectable with most of the antivirus. 
 
-4. undetectable with most of the antivirus. 
-
-5. can only execute the program one at a time - does not allow multiple instances to be running.
-
-
-
+    Doesn't allow multiple instances to run.
 
 
 
